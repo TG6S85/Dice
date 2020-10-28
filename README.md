@@ -1,2 +1,5 @@
-# Dice_Bag
-A virtual bag of DnD dice. because I lost mine. 
+# Dice
+
+A virtual set of DnD dice. because I lost mine.
+
+Made to be as basic and as simple to use as possible.
